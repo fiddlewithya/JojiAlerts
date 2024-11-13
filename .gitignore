@@ -1,0 +1,4 @@
+# Ignore API keys and environment configuration
+bot_script.pyc
+__pycache__/
+*.pyc
